@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.code4flex.learn.design.pattern.domain.model.DeliverReq;
 
 /**
- * 模拟实物商品服务
+ * 实物商品服务
  */
 public class GoodsService {
 
