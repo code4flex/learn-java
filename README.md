@@ -42,7 +42,7 @@ learn-java
 - **原型** - ~~原型模式实现~~
 
 结构型模式
-- **代理** - ~~代理模式实现~~
+- **代理** - 代理模式实现
 - **适配器** - ~~适配器模式实现~~
 - **桥接** - ~~桥接模式实现~~
 - **组合** - ~~组合模式实现~~
@@ -56,9 +56,9 @@ learn-java
 - **迭代器** - ~~迭代器模式实现~~
 - **中介者** - ~~中介者模式实现~~
 - **备忘录** - ~~备忘录模式实现~~
-- **观察者** - ~~观察者模式实现~~
+- **观察者** - 观察者模式实现
 - **状态** - ~~状态模式实现~~
-- **策略** - ~~策略模式实现~~
+- **策略** - 策略模式实现
 - **模板方法** - ~~模板方法模式实现~~
 - **访问者** - ~~访问者模式实现~~
 
@@ -89,47 +89,47 @@ learn-java
 
 ### 1.07 适配器模式
 
-参见 design-pattern-07
+~~参见 design-pattern-07~~
 
 ### 1.08 桥接模式
 
-参见 design-pattern-08
+~~参见 design-pattern-08~~
 
 ### 1.09 组合模式
 
-参见 design-pattern-09
+~~参见 design-pattern-09~~
 
 ### 1.10 装饰模式
 
-参见 design-pattern-10
+~~参见 design-pattern-10~~
 
 ### 1.11 外观模式
 
-参见 design-pattern-11
+~~参见 design-pattern-11~~
 
 ### 1.12 享元模式
 
-参见 design-pattern-12
+~~参见 design-pattern-12~~
 
 ### 1.13 责任链模式
 
-参见 design-pattern-13
+~~参见 design-pattern-13~~
 
 ### 1.14 命令模式
 
-参见 design-pattern-14
+~~参见 design-pattern-14~~
 
 ### 1.15 迭代器模式
 
-参见 design-pattern-15
+~~参见 design-pattern-15~~
 
 ### 1.16 中介者模式
 
-参见 design-pattern-16
+~~参见 design-pattern-16~~
 
 ### 1.17 备忘录模式
 
-参见 design-pattern-17
+~~参见 design-pattern-17~~
 
 ### 1.18 观察者模式
 
@@ -137,7 +137,7 @@ learn-java
 
 ### 1.19 状态模式
 
-参见 design-pattern-19
+~~参见 design-pattern-19~~
 
 ### 1.20 策略模式
 
@@ -145,12 +145,11 @@ learn-java
 
 ### 1.21 模板方法模式
 
-参见 design-pattern-21
+~~参见 design-pattern-21~~
 
 ### 1.22 访问者模式
 
-参见 design-pattern-22
-
+~~参见 design-pattern-22~~
 
 ---
 

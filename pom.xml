@@ -12,6 +12,8 @@
         <module>design-pattern-02</module>
         <module>design-pattern-03</module>
         <module>design-pattern-06</module>
+        <module>design-pattern-18</module>
+        <module>design-pattern-20</module>
     </modules>
 
     <properties>
