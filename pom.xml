@@ -15,6 +15,7 @@
         <module>design-pattern-18</module>
         <module>design-pattern-20</module>
         <module>design-pattern-21</module>
+        <module>design-pattern-05</module>
     </modules>
 
     <properties>
