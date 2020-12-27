@@ -36,8 +36,8 @@ learn-java
 
 创建型模式
 - **单例** - 多种单例模式实现
-- **工厂** - ~~工厂模式实现~~
-- **抽象工厂** - ~~抽象工厂模式实现~~
+- **工厂** - 工厂模式实现
+- **抽象工厂** - 抽象工厂模式实现
 - **建造者** - ~~建造者模式实现~~
 - **原型** - ~~原型模式实现~~
 
@@ -69,11 +69,11 @@ learn-java
 
 ### 1.02 工厂模式
 
-~~参见 design-pattern-02~~
+参见 design-pattern-02
 
 ### 1.03 抽象工厂模式
 
-~~参见 design-pattern-03~~
+参见 design-pattern-03
 
 ### 1.04 建造者模式
 
@@ -82,6 +82,75 @@ learn-java
 ### 1.05 原型模式
 
 ~~参见 design-pattern-05~~
+
+### 1.06 代理模式
+
+参见 design-pattern-06
+
+### 1.07 适配器模式
+
+参见 design-pattern-07
+
+### 1.08 桥接模式
+
+参见 design-pattern-08
+
+### 1.09 组合模式
+
+参见 design-pattern-09
+
+### 1.10 装饰模式
+
+参见 design-pattern-10
+
+### 1.11 外观模式
+
+参见 design-pattern-11
+
+### 1.12 享元模式
+
+参见 design-pattern-12
+
+### 1.13 责任链模式
+
+参见 design-pattern-13
+
+### 1.14 命令模式
+
+参见 design-pattern-14
+
+### 1.15 迭代器模式
+
+参见 design-pattern-15
+
+### 1.16 中介者模式
+
+参见 design-pattern-16
+
+### 1.17 备忘录模式
+
+参见 design-pattern-17
+
+### 1.18 观察者模式
+
+参见 design-pattern-18
+
+### 1.19 状态模式
+
+参见 design-pattern-19
+
+### 1.20 策略模式
+
+参见 design-pattern-20
+
+### 1.21 模板方法模式
+
+参见 design-pattern-21
+
+### 1.22 访问者模式
+
+参见 design-pattern-22
+
 
 ---
 
