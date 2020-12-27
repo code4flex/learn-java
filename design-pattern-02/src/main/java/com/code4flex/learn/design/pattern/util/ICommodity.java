@@ -1,4 +1,4 @@
-package com.code4flex.learn.design.pattern.domain;
+package com.code4flex.learn.design.pattern.util;
 
 import java.util.Map;
 

@@ -1,9 +1,9 @@
-package com.code4flex.learn.design.pattern.domain.service;
+package com.code4flex.learn.design.pattern.util.service;
 
 import com.alibaba.fastjson.JSON;
 import com.code4flex.learn.design.pattern.application.GoodsService;
-import com.code4flex.learn.design.pattern.domain.ICommodity;
-import com.code4flex.learn.design.pattern.domain.model.DeliverReq;
+import com.code4flex.learn.design.pattern.util.ICommodity;
+import com.code4flex.learn.design.pattern.util.model.DeliverReq;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

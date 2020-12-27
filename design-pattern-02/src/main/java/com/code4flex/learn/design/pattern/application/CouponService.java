@@ -1,6 +1,6 @@
 package com.code4flex.learn.design.pattern.application;
 
-import com.code4flex.learn.design.pattern.domain.model.CouponResult;
+import com.code4flex.learn.design.pattern.util.model.CouponResult;
 
 /**
  * 优惠券服务

@@ -1,4 +1,4 @@
-package com.code4flex.learn.design.pattern.domain.model;
+package com.code4flex.learn.design.pattern.util.model;
 
 public class DeliverReq {
 

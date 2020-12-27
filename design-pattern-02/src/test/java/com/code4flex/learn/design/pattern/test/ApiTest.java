@@ -1,7 +1,7 @@
 package com.code4flex.learn.design.pattern.test;
 
-import com.code4flex.learn.design.pattern.domain.ICommodity;
-import com.code4flex.learn.design.pattern.domain.factory.StoreFactory;
+import com.code4flex.learn.design.pattern.util.ICommodity;
+import com.code4flex.learn.design.pattern.util.factory.StoreFactory;
 import org.junit.Test;
 
 import java.util.HashMap;

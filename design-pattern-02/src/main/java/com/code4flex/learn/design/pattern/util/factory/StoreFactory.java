@@ -1,9 +1,9 @@
-package com.code4flex.learn.design.pattern.domain.factory;
+package com.code4flex.learn.design.pattern.util.factory;
 
-import com.code4flex.learn.design.pattern.domain.ICommodity;
-import com.code4flex.learn.design.pattern.domain.service.CardCommodityService;
-import com.code4flex.learn.design.pattern.domain.service.CouponCommodityService;
-import com.code4flex.learn.design.pattern.domain.service.GoodsCommodityService;
+import com.code4flex.learn.design.pattern.util.ICommodity;
+import com.code4flex.learn.design.pattern.util.service.CardCommodityService;
+import com.code4flex.learn.design.pattern.util.service.CouponCommodityService;
+import com.code4flex.learn.design.pattern.util.service.GoodsCommodityService;
 
 /**
  * 商品工厂
