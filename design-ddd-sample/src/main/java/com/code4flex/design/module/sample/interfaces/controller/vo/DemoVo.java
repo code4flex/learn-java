@@ -1,4 +1,4 @@
-package com.code4flex.design.module.sample.interfaces.vo;
+package com.code4flex.design.module.sample.interfaces.controller.vo;
 
 /**
  * demo vo
