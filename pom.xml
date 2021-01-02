@@ -17,6 +17,7 @@
         <module>design-pattern-21</module>
         <module>design-pattern-05</module>
         <module>design-pattern-23</module>
+        <module>design-ddd-sample</module>
     </modules>
 
     <properties>
@@ -127,6 +128,13 @@
             <artifactId>servlet-api</artifactId>
             <version>${servlet-api.version}</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-dependencies</artifactId>
+            <version>2.1.18.RELEASE</version>
+            <type>pom</type>
+            <scope>import</scope>
         </dependency>
     </dependencies>
     <build>

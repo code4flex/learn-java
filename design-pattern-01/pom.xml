@@ -9,7 +9,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>design-pattern-01</artifactId>
-    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
